@@ -1,0 +1,27 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" class="iconLeft">
+ <!---->
+ <defs>
+  <linearGradient y2="0%" x2="100%" y1="0%" x1="0%" id="035b0473-2114-473b-843b-c724e50c96a3" gradientTransform="rotate(25)">
+   <stop stop-color="#574851" offset="0%"/>
+   <stop stop-color="#95A8B1" offset="100%"/>
+  </linearGradient>
+ </defs>
+ <defs>
+  <!---->
+ </defs>
+ <defs>
+  <!---->
+ </defs>
+ <!---->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="1093" width="2302" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" class="logo-background-square" height="300px" width="300px" y="0" x="0" fill="url(#035b0473-2114-473b-843b-c724e50c96a3)"/>
+  <g transform="matrix(5.243071512448764,0,0,5.243071512448764,-49.45902633027315,119.55389708688145) " fill="#ffffff" id="fd55a30a-b4bf-409e-bcea-83f07ed66b80">
+   <path id="svg_3" d="m41.309807,14.46333l4.106,7.095l10.322,-17.839l-8.981,0l0,-5.607l-11.509,-6.61l-11.51,6.61l0,13.222l11.51,6.611l6.062,-3.482zm10.96,-8.744l-6.855,11.846l-6.855,-11.846l13.71,0z"/>
+  </g>
+ </g>
+</svg>
